@@ -5,9 +5,10 @@
 💿Full Stack Software Engineer
 📝Technical writer on espresso-notes.com
 ```
+##### some programmers I admire
+[Andrew Kelley](https://andrewkelley.me/) | [Ryan Fluery](https://www.dgtlgrove.com/) | [Fabrice Bellard](https://bellard.org/) | [Evan You](https://evanyou.me/) | [Casey Muratori](https://www.computerenhance.com/) | [Mitchell Hashimoto](https://mitchellh.com/) | [Lennart Poettering](https://0pointer.de/lennart/) | [Chris Sawyer](https://www.chrissawyergames.com/info.htm)
 
-### Programmers I admire
-[Andrew Kelley](https://andrewkelley.me/) | [Ryan Fluery](https://www.dgtlgrove.com/) | [Fabrice Bellard](https://bellard.org/) | [Evan You](https://evanyou.me/) | [Casey Muratori](https://www.computerenhance.com/) | [Mitchell Hashimoto](https://mitchellh.com/) | [Lennart Poettering](https://0pointer.de/lennart/)
+And some tunes; [very disco](https://youtu.be/HhZaHf8RP6g?si=87Pmrl5cPJB9OV-t) OR [disco very](https://daftpunk.fandom.com/wiki/Veridis_Quo)
 <!--
 **voiduserid/voiduserid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
