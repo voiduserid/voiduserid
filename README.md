@@ -1,8 +1,14 @@
 ## hi there 👋 
-### this is 
 ```bash
-[said@github ~]$ whoami
+[said@github ~]$ sudo whoami
+Said Albayrak
+Full Stack Software Engineer
+Technical writer on espresso-notes.com
 ```
+### Programming languages I know
+C, Python, Javascript, Lua
+
+### Programmers I admire
 <!--
 **voiduserid/voiduserid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
