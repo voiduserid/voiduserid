@@ -1,14 +1,13 @@
 ## hi there 👋 
 ```bash
 [said@github ~]$ sudo whoami
-Said Albayrak
-Full Stack Software Engineer
-Technical writer on espresso-notes.com
+🧑‍💻Said Albayrak
+💿Full Stack Software Engineer
+📝Technical writer on espresso-notes.com
 ```
-### Programming languages I know
-C, Python, Javascript, Lua
 
 ### Programmers I admire
+[Andrew Kelley](https://andrewkelley.me/) | [Ryan Fluery](https://www.dgtlgrove.com/) | [Fabrice Bellard](https://bellard.org/) | [Evan You](https://evanyou.me/) | [Casey Muratori](https://www.computerenhance.com/) | [Mitchell Hashimoto](https://mitchellh.com/) | [Lennart Poettering](https://0pointer.de/lennart/)
 <!--
 **voiduserid/voiduserid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
