@@ -1,14 +1,15 @@
 ## hi there 👋 
 ```bash
 [said@github ~]$ sudo whoami
-🧑‍💻Said Albayrak
-💿Full Stack Software Engineer
-📝Technical writer on espresso-notes.com
+🧑‍💻 said albayrak
+💿 full stack software engineer
+📝 technical writer at espresso-notes.com
+📫 said@espresso-notes.com
 ```
 #### some programmers I admire
 [Andrew Kelley](https://andrewkelley.me/) | [Ryan Fluery](https://www.dgtlgrove.com/) | [Fabrice Bellard](https://bellard.org/) | [Evan You](https://evanyou.me/) | [Casey Muratori](https://www.computerenhance.com/) | [Mitchell Hashimoto](https://mitchellh.com/) | [Lennart Poettering](https://0pointer.de/lennart/) | [Chris Sawyer](https://www.chrissawyergames.com/info.htm)
 
-and some tunes; 🎶 [very disco](https://youtu.be/HhZaHf8RP6g?si=87Pmrl5cPJB9OV-t) OR [disco very](https://daftpunk.fandom.com/wiki/Veridis_Quo)
+and two punks; 🎶 [very disco](https://youtu.be/HhZaHf8RP6g?si=87Pmrl5cPJB9OV-t) OR [disco very](https://daftpunk.fandom.com/wiki/Veridis_Quo)
 <!--
 **voiduserid/voiduserid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
