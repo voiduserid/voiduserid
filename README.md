@@ -1,4 +1,4 @@
-## hi there 👋 
+## good day 🌁 
 ```bash
 [said@github ~]$ sudo whoami
 🧑‍💻 said albayrak
